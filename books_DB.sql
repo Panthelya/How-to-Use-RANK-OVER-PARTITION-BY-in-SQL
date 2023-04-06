@@ -13,7 +13,7 @@ INSERT INTO books (id, title, author, original_language, sales, classify_under) 
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (3, 'Harry Potter and the Philosopher''s Stone', 'J. K. Rowling', 'English', 120, 'Fantasy');
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (4, 'The Plague', 'Albert Camus', 'French', 12, 'Classics');
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (5, 'The Divine Comedy', 'Dante Alighieri', 'Italian', 12, 'Poetry');
-INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (6, 'War And Peace', 'Leo Tolstoy', 'Russian', 36, 'Classics');
+INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (6, 'War and Peace', 'Leo Tolstoy', 'Russian', 36, 'Classics');
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (7, 'Nineteen Eighty-Four', 'George Orwell', 'English', 30, 'Classics');
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (8, 'Andromeda Nebula', 'Ivan Yefremov', 'Russian', 20, 'Science fiction');
 INSERT INTO books (id, title, author, original_language, sales, classify_under) VALUES (9, 'The Little Prince', 'Antoine de Saint-Exupéry', 'French', 200, 'Kids');
